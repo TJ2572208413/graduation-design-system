@@ -1,2 +1,2 @@
 # graduation-design-system
-毕业设计项目
+毕业设计项目：
